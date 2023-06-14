@@ -52,7 +52,11 @@ node src/challenge-X/index.js
 
 ## Testing
 
-Explain how to run the automated tests for this system (if applicable).
+To run the test contained in these projects, just execute the following command in the command line
+
+```bash
+npm install
+```
 
 ## Authors
 
