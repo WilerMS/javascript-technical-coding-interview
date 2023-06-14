@@ -1,4 +1,4 @@
-const { maxInstructionsWithRedux } = require('..')
+const { maxInstructionsWithRedux } = require('.')
 
 /* eslint-disable no-undef */
 describe('challenge-1 getMaxMovementsFromFurtherPoint()', () => {
