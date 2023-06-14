@@ -1,0 +1,24 @@
+{
+  "name": "javascript-technical-coding-interview",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions to a technical interview which included 5 algorithm exercises using JavaScript. Each solution is contained in its own separate file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
