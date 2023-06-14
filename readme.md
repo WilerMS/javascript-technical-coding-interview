@@ -4,11 +4,11 @@ This repository contains my solutions to a technical interview which included 5 
 
 ## Contents
 
-- Exercise 1: [Mars Robot Movement Simulator](#)
-- Exercise 2: [Predicting Developer's Work Completion: A Ricardo's Peculiarity Case](#)
-- Exercise 3: [Maximizing Task Duration: A Data Recovery Challenge](#)
-- Exercise 4: [Exponential Loan Repayment Time Estimator](#)
-- Exercise 5: [Unique Elements Counter](#)
+- Exercise 1: [Mars Robot Movement Simulator](https://github.com/WilerMS/javascript-technical-coding-interview/tree/master/src/challenge-01)
+- Exercise 2: [Predicting Developer's Work Completion: A Ricardo's Peculiarity Case](https://github.com/WilerMS/javascript-technical-coding-interview/tree/master/src/challenge-02)
+- Exercise 3: [Maximizing Task Duration: A Data Recovery Challenge](https://github.com/WilerMS/javascript-technical-coding-interview/tree/master/src/challenge-03)
+- Exercise 4: [Exponential Loan Repayment Time Estimator](https://github.com/WilerMS/javascript-technical-coding-interview/tree/master/src/challenge-04)
+- Exercise 5: [Unique Elements Counter](https://github.com/WilerMS/javascript-technical-coding-interview/tree/master/src/challenge-05)
 
 ## Getting Started
 
