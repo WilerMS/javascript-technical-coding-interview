@@ -55,7 +55,7 @@ node src/challenge-X/index.js
 To run the test contained in these projects, just execute the following command in the command line
 
 ```bash
-npm install
+npm run test
 ```
 
 ## Authors
