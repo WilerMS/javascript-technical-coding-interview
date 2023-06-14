@@ -4,11 +4,11 @@ This repository contains my solutions to a technical interview which included 5 
 
 ## Contents
 
-- Exercise 1: [Link to file](#)
-- Exercise 2: [Link to file](#)
-- Exercise 3: [Link to file](#)
-- Exercise 4: [Link to file](#)
-- Exercise 5: [Link to file](#)
+- Exercise 1: [Mars Robot Movement Simulator](#)
+- Exercise 2: [Predicting Developer's Work Completion: A Ricardo's Peculiarity Case](#)
+- Exercise 3: [Maximizing Task Duration: A Data Recovery Challenge](#)
+- Exercise 4: [Exponential Loan Repayment Time Estimator](#)
+- Exercise 5: [Unique Elements Counter](#)
 
 ## Getting Started
 
@@ -29,13 +29,13 @@ A step by step series of examples that tell you how to get a development environ
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/yourrepositoryname.git
+git clone https://github.com/wilerms/javascript-technical-coding-interview.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd yourrepositoryname
+cd javascript-technical-coding-interview
 ```
 
 3. Install dependencies:
@@ -46,9 +46,9 @@ npm install
 
 4. To run any exercise, use the following command (replace `exerciseX` with the name of the file corresponding to the exercise):
 
-\```bash
-node exerciseX.js
-\```
+```bash
+node src/challenge-X/index.js
+```
 
 ## Testing
 
@@ -56,7 +56,7 @@ Explain how to run the automated tests for this system (if applicable).
 
 ## Authors
 
-* **Your Name** - [YourUsername](https://github.com/YourUsername)
+* **Wiler Mariñez** - [WilerMS](https://github.com/WilerMS)
 
 ## License
 
